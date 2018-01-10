@@ -6695,6 +6695,18 @@ header h1 {
 .work-list a {
   style: none; }
 
+.references {
+  text-align: center;
+  text-decoration: none;
+}
+
+.references img {
+  border-radius: 50px;
+  width: 150px;
+  display: block;
+  margin: auto;
+}
+
 footer {
   background: #3B5A76;
   color: #fff;
