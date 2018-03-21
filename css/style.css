@@ -5107,6 +5107,9 @@ a.thumbnail.active {
 .media {
   margin-top: 15px; }
 
+.media-left {
+  min-width: 54px;
+}
 .media:first-child {
   margin-top: 0; }
 
