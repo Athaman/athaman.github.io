@@ -12,6 +12,12 @@ html {
 body {
   margin: 0; }
 
+h3 {
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 article,
 aside,
 details,
@@ -6644,7 +6650,7 @@ header h1 {
 
 .profile-img {
   border-radius: 50px;
-  width: 300px;
+  width: 200px;
   display: block;
   margin: auto;
   margin-top: -80px; }
